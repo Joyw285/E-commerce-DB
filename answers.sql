@@ -1,4 +1,5 @@
 -- Create the database
+-- group 541
 
 CREATE DATABASE e_commerce;
 USE e_commerce;
